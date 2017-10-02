@@ -64,4 +64,4 @@ scalacOptions += "-P:continuations:enable"
 parallelExecution in Test := false
 
 // code coverage
-scoverage.ScoverageSbtPlugin.ScoverageKeys.coverageHighlighting := false
+// scoverage.ScoverageSbtPlugin.ScoverageKeys.coverageHighlighting := false
